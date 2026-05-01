@@ -1,0 +1,3 @@
+Label,Pred Benign,Pred Malignant
+Actual Benign,72,0
+Actual Malignant,2,40

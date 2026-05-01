@@ -1,0 +1,24 @@
+{
+  "best_train_test_model": {
+    "Model": "AdaBoost Classifier",
+    "Accuracy": 0.9825,
+    "F1": 0.9756,
+    "Precision": 1.0,
+    "Recall": 0.9524
+  },
+  "best_cv_model": {
+    "Model": "Logistic Regression",
+    "CV Accuracy (Mean)": 0.9772,
+    "CV Accuracy (Std)": 0.0176,
+    "F1 (Mean)": 0.9686,
+    "Precision (Mean)": 0.982,
+    "Recall (Mean)": 0.9574
+  },
+  "best_ablation_setting": {
+    "Feature Subset": "LIME Top-10 Features",
+    "Num Features": 10,
+    "CV Accuracy (Mean)": 0.9684,
+    "CV Accuracy (Std)": 0.0331,
+    "F1 (Mean)": 0.9569
+  }
+}

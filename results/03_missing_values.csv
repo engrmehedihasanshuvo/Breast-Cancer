@@ -1,0 +1,32 @@
+column,missing_count
+diagnosis,0
+radius_mean,0
+texture_mean,0
+perimeter_mean,0
+area_mean,0
+smoothness_mean,0
+compactness_mean,0
+concavity_mean,0
+concave points_mean,0
+symmetry_mean,0
+fractal_dimension_mean,0
+radius_se,0
+texture_se,0
+perimeter_se,0
+area_se,0
+smoothness_se,0
+compactness_se,0
+concavity_se,0
+concave points_se,0
+symmetry_se,0
+fractal_dimension_se,0
+radius_worst,0
+texture_worst,0
+perimeter_worst,0
+area_worst,0
+smoothness_worst,0
+compactness_worst,0
+concavity_worst,0
+concave points_worst,0
+symmetry_worst,0
+fractal_dimension_worst,0

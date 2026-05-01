@@ -1,0 +1,6 @@
+Feature Subset,Num Features,CV Accuracy (Mean),CV Accuracy (Std),F1 (Mean)
+LIME Top-10 Features,10,0.9684,0.0331,0.9569
+All Features (Baseline),30,0.9667,0.0241,0.9534
+Worst Features Only,10,0.9579,0.0353,0.9414
+Mean Features Only,10,0.9368,0.0325,0.9127
+SE Features Only,10,0.8787,0.0426,0.8263

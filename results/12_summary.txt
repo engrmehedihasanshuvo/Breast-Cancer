@@ -1,0 +1,13 @@
+Breast Cancer Classification Summary
+===================================
+
+Best Train/Test Model: AdaBoost Classifier
+Accuracy: 0.9825
+F1: 0.9756
+
+Best Cross-Validation Model: Logistic Regression
+CV Accuracy Mean: 0.9772
+CV Accuracy Std: 0.0176
+
+Best Ablation Feature Set: LIME Top-10 Features
+Ablation CV Accuracy Mean: 0.9684
